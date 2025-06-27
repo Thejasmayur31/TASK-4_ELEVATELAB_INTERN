@@ -1,1 +1,2 @@
 # TASK-4_ELEVATELAB_INTERN
+We used the Banknote Authentication Dataset to build a binary classifier using Logistic Regression. The data was standardized, and a logistic model was trained to predict if a banknote is real or fake based on image features. We evaluated the model using a confusion matrix, precision, recall, and ROC-AUC score. Threshold tuning was also performed, and the sigmoid function was plotted to explain how logistic regression maps inputs to probabilities.
